@@ -1,0 +1,77 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-10-03T02:23:56</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-10-03T02:38:01</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="c5e8c9" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="cce8cf" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="ffdcdc" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="feffdb" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="caffce" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value />
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value />
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value />
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="cce8cf" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
