@@ -1,0 +1,17 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="Console.TableResult.NextPage" />
+  <action id="EditorCloneCaretBelow" />
+  <action id="GotoAction" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+</keymap>
