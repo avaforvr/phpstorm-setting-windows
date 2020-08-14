@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="20" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
+  <component name="EditorSettings">
+    <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
+  </component>
 </application>
