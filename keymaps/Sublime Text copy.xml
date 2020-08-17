@@ -13,6 +13,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="FileStructurePopup" />
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -31,6 +32,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -43,6 +48,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="UML.ShowStructure" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
