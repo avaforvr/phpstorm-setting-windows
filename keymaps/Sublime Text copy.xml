@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename">
@@ -24,6 +27,9 @@
   </action>
   <action id="Console.TableResult.NextPage" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretBelow" />
   <action id="EditorDecreaseFontSize">
@@ -34,6 +40,9 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
@@ -121,6 +130,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Terminal.Paste" />
   <action id="UML.ShowStructure" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
