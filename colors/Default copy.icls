@@ -3,7 +3,7 @@
     <property name="created">2019-10-03T02:23:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-10-03T02:38:01</property>
+    <property name="modified">2020-10-09T14:25:44</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <colors>
@@ -72,6 +72,9 @@
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="cce8cf" />
       </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value />
     </option>
   </attributes>
 </scheme>
