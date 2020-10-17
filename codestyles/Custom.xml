@@ -22,6 +22,11 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </ScssCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -64,6 +69,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
