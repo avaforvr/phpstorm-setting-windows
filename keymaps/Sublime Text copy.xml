@@ -91,7 +91,6 @@
   <action id="GotoAction" />
   <action id="GotoBookmark0" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoNextBookmark" />
@@ -103,6 +102,9 @@
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
@@ -144,4 +146,5 @@
   <action id="UML.ShowStructure" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="tasks.open.in.browser" />
 </keymap>
