@@ -10,4 +10,8 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
